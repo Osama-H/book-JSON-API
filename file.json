@@ -1,0 +1,33 @@
+[
+    {
+        "userId": 1,
+        "name": "Ali Ahmed",
+        "role": "admin",
+        "birthDate" : "2009-11-29",
+        "books": [
+            {
+                "id": 1,
+                "bookName": "Physics",
+                "numOfPages": 1800
+            },
+            {
+                "id": 2,
+                "bookName": "Programming",
+                "numOfPages": 1800
+            }
+        ]
+    },
+    {
+        "userId": 2,
+        "name": "Osama Hussam",
+        "role": "admin",
+        "birthDate" : "2002-10-29",
+        "books": [
+            {
+                "id": 3,
+                "bookName": "Physics",
+                "numOfPages": 1800
+            }
+        ]
+    }
+]
