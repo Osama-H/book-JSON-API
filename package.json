@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node --watch index.js",
-    "lint:fix" : "eslint . --fix"
+    "start": "nodemon app.js",
+    "lint:fix": "eslint . --fix"
   },
   "author": "Osama",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.1.4",
     "eslint-config-wesbos": "^3.2.3",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
   }
 }

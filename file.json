@@ -2,31 +2,109 @@
     {
         "userId": 1,
         "name": "Ali Ahmed",
-        "role": "admin",
-        "birthDate" : "2009-11-29",
+        "role": "user",
+        "birthDate": "2009-11-29",
         "books": [
             {
                 "id": 1,
-                "bookName": "Physics",
+                "bookName": "Angluar  ",
                 "numOfPages": 1800
             },
             {
                 "id": 2,
-                "bookName": "Programming",
-                "numOfPages": 1800
+                "bookName": "React",
+                "numOfPages": 2500
+            },
+            {
+                "id": 3,
+                "bookName": "Angluar",
+                "numOfPages": 2500
             }
         ]
     },
     {
         "userId": 2,
         "name": "Osama Hussam",
-        "role": "admin",
-        "birthDate" : "2002-10-29",
+        "role": "user",
+        "birthDate": "2002-10-29",
         "books": [
             {
-                "id": 3,
-                "bookName": "Physics",
+                "id": 4,
+                "bookName": "PHP",
+                "numOfPages": 2500
+            },
+            {
+                "id": 5,
+                "bookName": "JS",
+                "numOfPages": 1000
+            }
+        ]
+    },
+    {
+        "userId": 3,
+        "name": "Osama Ali",
+        "birthDate": "2006-5-20",
+        "books": [
+            {
+                "id": 6,
+                "bookName": "NestJs",
                 "numOfPages": 1800
+            },
+            {
+                "id": 7,
+                "bookName": "ExpressJs",
+                "numOfPages": 300
+            },
+            {
+                "id": 8,
+                "bookName": "NodeJs",
+                "numOfPages": 600
+            }
+        ]
+    },
+    {
+        "userId": 6,
+        "name": "Hamood Alaa",
+        "books": [
+            {
+                "id": 11,
+                "bookName": "HTML",
+                "numOfPages": 600
+            },
+            {
+                "id": 12,
+                "bookName": "CSS",
+                "numOfPages": 600
+            },
+            {
+                "id": 13,
+                "bookName": "Bootstrap",
+                "numOfPages": 600
+            }
+        ]
+    },
+    {
+        "userId": 5,
+        "name": "Ali Mahmoud",
+        "books": [{
+            "id": 14,
+                "bookName": "Python",
+                "numOfPages": 750
+        }]
+    },
+    {
+        "userId": 4,
+        "name": "Mazen amhed",
+        "books": [
+            {
+                "id": 9,
+                "bookName": "LARAVEL",
+                "numOfPages": 600
+            },
+            {
+                "id": 10,
+                "bookName": "CakePHP",
+                "numOfPages": 600
             }
         ]
     }
